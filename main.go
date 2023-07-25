@@ -1,7 +1,6 @@
 package main
 
 import (
-	// import the repository package
 	db "crud-mahasiswa/db"
 	"crud-mahasiswa/routes"
 )
